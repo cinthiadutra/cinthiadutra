@@ -54,20 +54,4 @@ Sou desenvolvedora mobile há 3 anos;
 
 </div>
 
-### Last Week Activity
 
-This data is tracked by [wakatime](https://wakatime.com) and is used for self-care purposes with my well-being.
-
-<!--START_SECTION:waka-->
-
-```txt
-PHP           15 hrs 20 mins  ███████████▒░░░░░░░░░░░░░   44.87 %
-Dart          8 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Other         2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-TypeScript    2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-YAML          1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-```
-
-<!--END_SECTION:waka-->
-
-###
