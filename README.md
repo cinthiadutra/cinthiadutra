@@ -42,11 +42,6 @@ Sou desenvolvedor mobile há 3 anos;
 </div>
 
 
-
-  
-  ##
- 
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=cinthiadutra&show_icons=true&theme=dark"
@@ -58,3 +53,9 @@ Sou desenvolvedor mobile há 3 anos;
   />
   <img src="https://github-readme-stats.vercel.app/api?username=cinthiadutra&show_icons=true" />
 </picture>
+
+---  
+<div align = "left">  
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=cinthiadutra&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiadutra&show_icons=true&theme=bear&count_private=true"/>
+</div>
