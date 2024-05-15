@@ -1,24 +1,20 @@
-## Olá eu sou a Cinthia Dutra, Desenvolvedora Mobile!
+## 
 
 <img src = ".github/dotcode.png" width = "270px" align = "right">
 
-# Fala galera! Meu nome é Ricarth Lima 👩‍💻
+# Olá eu sou a Cinthia Dutra, Desenvolvedora Mobile! 💜
 
 <div id="badges">  
-  <a href = "https://www.youtube.com/c/DotcodeEdu">
-  <img src="https://img.shields.io/badge/YouTube-d83b7d?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   
-  <a href = "https://instagram.com/ricarthlima">
+  
+  <a href = "https://instagram.com/cinthiadutra11">
     <img src="https://img.shields.io/badge/Instagram-1e0e31?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-  <a href = "https://twitter.com/ricarthlima">
-    <img src="https://img.shields.io/badge/Twitter-d83b7d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
 </div>
 
-Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github.com/alura-cursos/) e na [DotcodeEdu](https://www.youtube.com/c/DotcodeEdu);
+Sou desenvolvedor mobile há 3 anos;
 
 :woman_student:Pós em Engenharia de Software;
 
@@ -39,8 +35,8 @@ Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github
 
 ---  
 <div align = "left">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=cinthiadutra&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiadutra&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
 
