@@ -6,7 +6,7 @@
 
 
 
-Sou desenvolvedora mobile há 3 anos;
+Sou desenvolvedora mobile há quase 5 anos;
 
 :woman_student:Pós em Engenharia de Software;
 
