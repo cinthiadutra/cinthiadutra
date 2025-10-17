@@ -6,13 +6,13 @@
 
 
 
-Sou desenvolvedora mobile há quase 5 anos;
+Sou desenvolvedora Flutter há quase 5 anos;
 
 :woman_student:Pós em Engenharia de Software;
 
 
 💜 Amo programar;
-👩‍💻 aprendendo go
+👩‍💻 aprendendo node.js e Angular
 
 🧰 Usando Git/GitHub, Visual Studio Code e Firebase;
 
