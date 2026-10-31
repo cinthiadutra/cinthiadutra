@@ -9,10 +9,11 @@
 Sou desenvolvedora Flutter há mais de 5 anos;
 
 :woman_student:Pós em Engenharia de Software;
+Cursando Engenharia de Computação - UTFPR
 
 
 💜 Amo programar;
-👩‍💻 aprendendo node.js e Angular
+👩‍💻 aprendendo IA, AWS e backend
 
 🧰 Usando Git/GitHub, Visual Studio Code e Firebase;
 
